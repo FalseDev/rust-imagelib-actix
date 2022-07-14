@@ -1,0 +1,3 @@
+[submodule "rust-imagelib"]
+	path = rust-imagelib
+	url = https://github.com/FalseDev/rust-imagelib
